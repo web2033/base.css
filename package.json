@@ -1,0 +1,23 @@
+{
+  "name": "@web2033/base.css",
+  "version": "1.0.0",
+  "description": "Normalize browsers' default style. An opinionated set of base styles for Tailwind CSS and other projects.",
+  "main": "base.css",
+  "style": "base.css",
+  "files": [
+    "base.css"
+  ],
+  "keywords": [
+    "css",
+    "normalize",
+    "default",
+    "reset",
+    "base",
+    "preflight",
+    "style"
+  ],
+  "author": "Eugene Kopich <github@web2033.com>",
+  "license": "MIT",
+  "repository": "web2033/base.css",
+  "homepage": "https://github.com/web2033/base.css"
+}
